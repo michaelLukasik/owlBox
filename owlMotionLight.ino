@@ -1,8 +1,5 @@
 /*
-  Rui Santos (ty rui B))
-  Complete project details at https://RandomNerdTutorials.com/telegram-esp32-motion-detection-arduino/
-  
-  Project created using Brian Lough's Universal Telegram Bot Library: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+ Based off of code from Rui @  https://RandomNerdTutorials.com/telegram-esp32-motion-detection-arduino/
 */
 
 #include <WiFi.h>
